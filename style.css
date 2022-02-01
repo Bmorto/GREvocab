@@ -1,0 +1,22 @@
+.head{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#inputBar{
+    margin-top:20px;
+    margin-right:15px;
+    height:40px;
+}
+
+#searchButton{
+    height:40px;
+    margin-top: 20px;
+}.buttonText{
+    text-align: center;
+}
+
+
+.first{
+    margin-top: 20px;
+    margin-right: 15px;
+}
